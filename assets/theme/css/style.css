@@ -438,6 +438,11 @@ animation: gradient-animation 4s infinite alternate;
     display: -webkit-flex; }
   .menu .navbar-brand .navbar-logo img {
     display: -webkit-flex; }
+@media (max-width: 991px) {
+  .menu .navbar-collapse {
+    max-height: calc(100vh - 3.5rem); }
+    .menu .navbar-collapse.show {
+      overflow: auto; } }
 @media (max-width: 767px) {
   .menu .navbar-collapse {
     max-height: 60vh; } }
@@ -453,18 +458,17 @@ animation: gradient-animation 4s infinite alternate;
   .menu .navbar-toggleable-sm .navbar-collapse {
     display: -ms-flexbox;
     display: -webkit-flex;
-    display: flex; } }
+    display: flex; }
+  .menu .collapsed .navbar-collapse {
+    max-height: calc(100vh - 3.5rem); }
+    .menu .collapsed .navbar-collapse.show {
+      overflow: auto; } }
 
 .navbar {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
   -webkit-align-items: center;
   -webkit-justify-content: space-between; }
-
-.navbar-collapse {
-  max-height: calc(100vh - 3.5rem); }
-  .navbar-collapse.show {
-    overflow: auto; }
 
 .menu .menu-bottom {
   display: -webkit-flex; }
