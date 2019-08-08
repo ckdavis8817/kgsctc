@@ -61,7 +61,7 @@
         "main": true,
         "title": "Kenneth Ginlack Sr.  Consulting and Training Center For Mental Health ",
         "meta_descr": "Do you want a career in the high paying  profession of mental health? You will be prepared to take the exams for these highly sought after mental health certifications with KGSCTC training. Classes fill up fast, so register now.  KGSCTC offers training for Substance Abuse Counselor (SAC-IT), Substance Abuse Counselor (SAC), and Clinical Substance Abuse Counselor (CSAC).  Kenneth Ginlack Sr. provides consulting for Mental Health Clinical Supervision Practices.  Kenneth Ginlack Sr. has a masters in mental health counseling. ",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"mental health counselor, how to become a mental health counselor,  types of counseling certifications,    Substance Abuse Counselor,  mental health counselor license, mental health counselor masters,\nmental health counselor certification,mental health counselor schooling, mental health counselor requirements \" />",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2482,9 +2482,10 @@
     },
     "KGCTC-Services-Benefits.html": {
       "settings": {
-        "title": "Kenneth Ginlack Sr, Consulting and  Training  Benefits",
+        "title": "Kenneth Ginlack Sr, Consulting and  Training In  Clinical Supervision ",
         "order": 3,
-        "meta_descr": "Your organization will profit by implementing the best mental health clinical supervision practices taught by KGSCTC. Kenneth Ginlack Sr. teaches proven methods that improve organizational effectiveness.   The quality of patient care and level of employee job satisfaction are greatly enhanced by using these proven procedures. "
+        "meta_descr": "Your organization will profit by implementing the best mental health clinical supervision practices taught by KGSCTC.  Kenneth Ginlack Sr. teaches proven  clinical supervision   methods that enhances growth and increases skills  of mental health counselors.   The quality of patient care and level of employee job satisfaction are greatly enhanced by using these proven procedures. ",
+        "header_custom": "<meta name=\"keywords\" content=\"Clinical Supervision, Clinical Supervision training,  how to do Clinical Supervision,  types of Clinical Supervision,   Mental Health Clinical Supervision Practices, \tclinical supervision social work \" />"
       },
       "components": [
         {
